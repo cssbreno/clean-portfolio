@@ -2,7 +2,7 @@
 
 Este é um projeto de portfólio pessoal desenvolvido com HTML e CSS puro, focado em responsividade e boas práticas de estruturação semântica.
 
-## 📁 Estrutura do Projeto
+##📁 Estrutura do Projeto
 
 - `index.html`: Página principal com as seções de introdução, experiência e formação.
 - `style.css`: Arquivo central que importa os estilos de todos os módulos do projeto.
@@ -12,27 +12,27 @@ Este é um projeto de portfólio pessoal desenvolvido com HTML e CSS puro, focad
 - `experiencia.css`: Estilização da seção de experiências profissionais.
 - `formacao.css`: Estilização da seção de formação acadêmica.
 
-## 💡 Funcionalidades
+##💡 Funcionalidades
 
 - Layout responsivo utilizando media queries.
 - Estrutura semântica HTML com `header`, `main`, `section` e `footer`.
 - Grid layout aplicado à introdução.
 - Separação modular dos estilos por área do layout.
 
-## 🎨 Tecnologias Utilizadas
+##🎨 Tecnologias Utilizadas
 
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
 
-## 📱 Responsividade
+##📱 Responsividade
 
 O layout foi projetado para se adaptar a diferentes resoluções de tela, incluindo dispositivos móveis.
 
-## 📷 Prévia
+##📷 Prévia
 
 (Adicione aqui um print da página ou um link para o GitHub Pages ou Vercel, se publicado)
 
-## 🚀 Como Executar
+##🚀 Como Executar
 
 1. Clone o repositório:
    ```bash
